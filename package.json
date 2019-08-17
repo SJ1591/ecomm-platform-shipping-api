@@ -1,0 +1,37 @@
+{
+  "name": "product-categories",
+  "version": "1.0.0",
+  "description": "Category APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cezerin-client": "^0.34.0",
+    "cookie-parser": "^1.4.4",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.1",
+    "formidable": "^1.2.1",
+    "fs-extra": "^8.1.0",
+    "handlebars": "^4.1.2",
+    "helmet": "^3.20.0",
+    "jsonwebtoken": "^8.5.1",
+    "lru-cache": "^5.1.1",
+    "moment": "^2.24.0",
+    "mongodb": "^3.3.0",
+    "nodemailer": "^6.3.0",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "path": "^0.12.7",
+    "response-time": "^2.3.2",
+    "slug": "^1.1.0",
+    "stripe": "^7.8.0",
+    "ua-parser-js": "^0.7.20",
+    "url": "^0.11.0",
+    "winston": "^3.2.1",
+    "ws": "^7.1.2"
+  }
+}
